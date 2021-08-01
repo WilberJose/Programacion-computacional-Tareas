@@ -1,0 +1,7 @@
+C:\Users\wilbe\source\repos\Numeros enteros\Numeros enteros\bin\Debug\Numeros enteros.exe.config
+C:\Users\wilbe\source\repos\Numeros enteros\Numeros enteros\bin\Debug\Numeros enteros.exe
+C:\Users\wilbe\source\repos\Numeros enteros\Numeros enteros\bin\Debug\Numeros enteros.pdb
+C:\Users\wilbe\source\repos\Numeros enteros\Numeros enteros\obj\Debug\Numeros enteros.csprojAssemblyReference.cache
+C:\Users\wilbe\source\repos\Numeros enteros\Numeros enteros\obj\Debug\Numeros enteros.csproj.CoreCompileInputs.cache
+C:\Users\wilbe\source\repos\Numeros enteros\Numeros enteros\obj\Debug\Numeros enteros.exe
+C:\Users\wilbe\source\repos\Numeros enteros\Numeros enteros\obj\Debug\Numeros enteros.pdb

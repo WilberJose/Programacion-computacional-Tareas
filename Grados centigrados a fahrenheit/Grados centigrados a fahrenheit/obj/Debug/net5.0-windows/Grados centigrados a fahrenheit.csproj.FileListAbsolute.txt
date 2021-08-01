@@ -1,0 +1,18 @@
+C:\Users\wilbe\source\repos\Grados centigrados a fahrenheit\Grados centigrados a fahrenheit\bin\Debug\net5.0-windows\Grados centigrados a fahrenheit.exe
+C:\Users\wilbe\source\repos\Grados centigrados a fahrenheit\Grados centigrados a fahrenheit\bin\Debug\net5.0-windows\Grados centigrados a fahrenheit.deps.json
+C:\Users\wilbe\source\repos\Grados centigrados a fahrenheit\Grados centigrados a fahrenheit\bin\Debug\net5.0-windows\Grados centigrados a fahrenheit.runtimeconfig.json
+C:\Users\wilbe\source\repos\Grados centigrados a fahrenheit\Grados centigrados a fahrenheit\bin\Debug\net5.0-windows\Grados centigrados a fahrenheit.runtimeconfig.dev.json
+C:\Users\wilbe\source\repos\Grados centigrados a fahrenheit\Grados centigrados a fahrenheit\bin\Debug\net5.0-windows\Grados centigrados a fahrenheit.dll
+C:\Users\wilbe\source\repos\Grados centigrados a fahrenheit\Grados centigrados a fahrenheit\bin\Debug\net5.0-windows\ref\Grados centigrados a fahrenheit.dll
+C:\Users\wilbe\source\repos\Grados centigrados a fahrenheit\Grados centigrados a fahrenheit\bin\Debug\net5.0-windows\Grados centigrados a fahrenheit.pdb
+C:\Users\wilbe\source\repos\Grados centigrados a fahrenheit\Grados centigrados a fahrenheit\obj\Debug\net5.0-windows\Grados centigrados a fahrenheit.csprojAssemblyReference.cache
+C:\Users\wilbe\source\repos\Grados centigrados a fahrenheit\Grados centigrados a fahrenheit\obj\Debug\net5.0-windows\Grados_centigrados_a_fahrenheit.Form1.resources
+C:\Users\wilbe\source\repos\Grados centigrados a fahrenheit\Grados centigrados a fahrenheit\obj\Debug\net5.0-windows\Grados centigrados a fahrenheit.csproj.GenerateResource.cache
+C:\Users\wilbe\source\repos\Grados centigrados a fahrenheit\Grados centigrados a fahrenheit\obj\Debug\net5.0-windows\Grados centigrados a fahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilbe\source\repos\Grados centigrados a fahrenheit\Grados centigrados a fahrenheit\obj\Debug\net5.0-windows\Grados centigrados a fahrenheit.AssemblyInfoInputs.cache
+C:\Users\wilbe\source\repos\Grados centigrados a fahrenheit\Grados centigrados a fahrenheit\obj\Debug\net5.0-windows\Grados centigrados a fahrenheit.AssemblyInfo.cs
+C:\Users\wilbe\source\repos\Grados centigrados a fahrenheit\Grados centigrados a fahrenheit\obj\Debug\net5.0-windows\Grados centigrados a fahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\wilbe\source\repos\Grados centigrados a fahrenheit\Grados centigrados a fahrenheit\obj\Debug\net5.0-windows\Grados centigrados a fahrenheit.dll
+C:\Users\wilbe\source\repos\Grados centigrados a fahrenheit\Grados centigrados a fahrenheit\obj\Debug\net5.0-windows\ref\Grados centigrados a fahrenheit.dll
+C:\Users\wilbe\source\repos\Grados centigrados a fahrenheit\Grados centigrados a fahrenheit\obj\Debug\net5.0-windows\Grados centigrados a fahrenheit.pdb
+C:\Users\wilbe\source\repos\Grados centigrados a fahrenheit\Grados centigrados a fahrenheit\obj\Debug\net5.0-windows\Grados centigrados a fahrenheit.genruntimeconfig.cache
